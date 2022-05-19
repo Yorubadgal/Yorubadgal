@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yorubadgal
 - 👀 I’m interested in software engineering for beginners
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
